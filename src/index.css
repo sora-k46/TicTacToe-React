@@ -1,0 +1,36 @@
+*, *::before, *::after {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(203, 211, 167);
+    padding: 20px 0 0 20px;
+}
+
+.btn {
+    background-color: lightblue;
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 70px;
+    height: 30px;
+    transition: background-color .3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: lightgreen;
+}
+
+.btn:active {
+    background-color: pink;
+}
+
+.card .btn {
+    margin: 20px 0 0 100px;
+}
