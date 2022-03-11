@@ -1,4 +1,6 @@
 import Todo from "./Todo";
+import Modal from "./Modal";
+import Backdrop from "./Backdrop";
 
 function App() {
   return (
