@@ -1,9 +1,9 @@
-import { Typography }from '@mui/material'
+import { AppBar, Typography }from '@mui/material'
 
 function App() {
   return (
     <>
-      <Typography></Typography>
+      <AppBar>This is an appbar</AppBar>
     </>
   );
 }
