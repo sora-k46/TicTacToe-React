@@ -4,10 +4,11 @@
 
 body {
   font-family: sans-serif;
-  margin: 3rem;
+  /* margin: 3rem; */
   background-color: #dfdfdf;
 }
 
+/*
 h1, h2 {
   color: #333333;
 }
@@ -71,3 +72,4 @@ h1, h2 {
   top: 0;
   left: 0;
 }
+*/
