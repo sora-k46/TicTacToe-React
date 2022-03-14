@@ -58,6 +58,16 @@ a {
   margin-left: 20px;
 }
 
+.search-box {
+}
+
+.searchbar input {
+  display: block;
+  height: 30px;
+  width: 500px;
+  padding-left: 10px;
+}
+
 
 /*
 from youtube tutorial
