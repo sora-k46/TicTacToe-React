@@ -1,9 +1,16 @@
 import Navbar from "./components/Navbar";
+import Aside from "./components/Aside";
 
 function App() {
   return (
     <>
       <Navbar />
+      <div className='container'>
+        <Aside />
+        <main>
+          this is main blog.
+        </main>
+      </div>
     </>
   );
 }
