@@ -5,12 +5,12 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className='container'>
+      {/* <div className='container'>
         <Aside />
         <main>
           this is main blog.
         </main>
-      </div>
+      </div> */}
     </>
   );
 }

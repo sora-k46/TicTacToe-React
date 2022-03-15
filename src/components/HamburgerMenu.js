@@ -1,10 +1,5 @@
 
-    function showMenu() {
-        console.log('clicked')
-    }
-
 const HamburgerMenu = (props) => {
-
 
     return (
         <div className='hamburger'>

@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className='navbar'>
             <div className='hamburger-menu'>
-                <HamburgerMenu onClick={showMenu}/>
+                <HamburgerMenu />
             </div>
             <h1 className='logo'>Sorrawit</h1>
             <div className='search-box'>
