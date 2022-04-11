@@ -1,8 +1,9 @@
+import Game from "./components/Game";
 
 function App() {
   return (
     <>
-      <p>Hello</p>
+      <Game />
     </>
   );
 }
