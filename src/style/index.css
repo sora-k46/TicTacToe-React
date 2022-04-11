@@ -7,9 +7,22 @@
   font-family: 'Roboto', sans-serif;
 }
 
+body {
+  padding: 100px;
+}
+
 .square {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   border: 1px solid black;
   margin: 5px;
+  transition: 
+    background-color 0.5s,
+    transform 0.5s
+  ;
+}
+
+.square:hover {
+  background-color: aquamarine;
+  transform: scale(1.1);
 }
