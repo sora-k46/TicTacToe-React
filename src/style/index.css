@@ -6,3 +6,10 @@
   margin: 0;
   font-family: 'Roboto', sans-serif;
 }
+
+.square {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 5px;
+}
