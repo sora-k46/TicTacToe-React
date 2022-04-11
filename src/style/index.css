@@ -28,3 +28,9 @@ body {
   background-color: aquamarine;
   transform: scale(1.1);
 }
+
+.boardRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
