@@ -39,3 +39,14 @@ button {
   font-size: 30px;
   font-weight: bold;
 }
+
+.board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.board h1 {
+  margin-bottom: 50px;
+}
